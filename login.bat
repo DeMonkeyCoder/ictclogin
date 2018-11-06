@@ -1,2 +1,2 @@
-java -jar ictclogin.jar login username password
+java -jar ictclogin.jar login [username] [password]
 PAUSE
